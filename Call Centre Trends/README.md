@@ -10,3 +10,5 @@ Overall calls answered/abandoned
 Calls by time
 Average speed of answer
 Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+Download link: https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/01%20Call-Center-Dataset.xlsx
