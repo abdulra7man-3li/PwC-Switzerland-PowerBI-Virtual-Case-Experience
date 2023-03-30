@@ -4,7 +4,7 @@ They’re reaching out to us for help.
 
 measures could help to define proper KPIs:
 
-# of men
+/# of men
 
 # of women
 
