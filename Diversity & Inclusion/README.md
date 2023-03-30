@@ -4,11 +4,11 @@ They’re reaching out to us for help.
 
 measures could help to define proper KPIs:
 
-/# of men
+num of men
 
-# of women
+num of women
 
-# of leavers
+num of leavers
 
 % employees promoted (FY21)
 
